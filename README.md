@@ -6,5 +6,7 @@ training data. The code is further extended to calculate the individual probabil
 into a particular category.
 
 Dataset was imported using sklearn.datasets
+
 Class MajorityClassifier was created by inhereting the BaseEstimator, and ClassifierMixin.
+
 The class included fit, predict, predict_probabilities functions.
